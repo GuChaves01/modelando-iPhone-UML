@@ -1,4 +1,4 @@
-### Exemplo de Diagrama UML (Mermaid)
+### iPhone UML
 ```mermaid
 classDiagram
     class PlayerDeMusica {
